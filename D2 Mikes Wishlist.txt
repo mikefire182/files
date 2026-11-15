@@ -19,7 +19,7 @@ dimwishlist:item=1066772626&perks=1840239774,3230963543,3523296417,2109543898,37
 dimwishlist:item=1066772626&perks=1840239774,3230963543,3523296417,124408337,3713579091#notes:Perfect Roll - PVE
 
 // Gridskipper - Void Pulse Rifle
-dimwishlist:item=3176697589&perks=839105230,1885400500,776531651,2048641572,3404929162#notes:Perfect Roll - PVE *Destabilizing Rounds does not stack with Artifact perk Volatile Marksman*
+dimwishlist:item=3176697589&perks=839105230,1885400500,776531651,2048641572,3404929162#notes:Perfect Roll - PVE *Destabilizing Rounds trait does not stack with Artifact perk Volatile Marksman*
 dimwishlist:item=3176697589&perks=776531651,2048641572#notes:PVE *Destabilizing Rounds trait does not stack with Artifact perk Volatile Marksman*
 dimwishlist:item=3176697589&perks=839105230,1885400500,3523296417,2109543898,3404929162#notes:PVE
 dimwishlist:item=3176697589&perks=839105230,1885400500,3523296417,4104185692,3404929162#notes:PVE
